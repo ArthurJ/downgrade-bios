@@ -1,0 +1,5 @@
+VendorName=Dell Inc.
+OemString=Model_File
+SystemName=Inspiron 5X57
+Version=1.9.0
+Model=070A,070A
